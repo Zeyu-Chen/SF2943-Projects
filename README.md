@@ -8,5 +8,5 @@ This repository contains 3 projects for SF2943 Time Series Analysis of KTH (2017
 
 - Part 3: Analysis of financial time series with the help of Finance Lab software(QuantLab).
 
-Details can be found in *projectinformationsf2943.pdf* in the *Instruction* folder.
+Details can be found in "*projectinformationsf2943.pdf*" in the "*Instruction*" folder.
  
