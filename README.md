@@ -2,7 +2,7 @@
 
 This repository contains 3 projects for SF2943 Time Series Analysis of KTH (2017~2018 P4) 
 
-- Part 1: Analysis of a non-financial time series
+- Part 1: Analysis of a non-financial time series.
 
 - Part 2: Discussion of a research article which makes use of time series analysis.
 
